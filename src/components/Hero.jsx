@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroImage from '../assets/hero-image.png'
-import Resume from '../assets/NBresume.pdf'  // Import your resume file
+import Resume from '../assets/FullStackResume.pdf'  // Import your resume file
 
 const Hero = () => {
   return (
